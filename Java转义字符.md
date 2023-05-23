@@ -44,7 +44,9 @@ public class ChangeChar {
 
 ## 运行结果
 
-<img src="C:\Users\22050\AppData\Roaming\Typora\typora-user-images\image-20230522110949938.png" alt="image-20230522110949938" style="zoom:150%;" />
+<img src="D:\github\ZccLearnJava.github.io\img\Java转义字符.assets\image-20230522110949938.png" alt="image-20230522110949938" style="zoom:150%;" />
+
+
 
 
 
@@ -52,7 +54,9 @@ public class ChangeChar {
 
 编写代码，用一个输出语句实现以下的输出结果
 
-<img src="C:\Users\22050\AppData\Roaming\Typora\typora-user-images\image-20230522144644597.png" alt="image-20230522144644597" style="zoom:200%;" />
+<img src="D:\github\ZccLearnJava.github.io\img\Java转义字符.assets\image-20230522144644597.png" alt="image-20230522144644597" style="zoom:150%;" />
+
+
 
 ### 代码如下
 

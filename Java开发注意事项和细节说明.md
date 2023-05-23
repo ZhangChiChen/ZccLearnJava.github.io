@@ -9,6 +9,7 @@
 ```
 public static void main(String[] args) {
 		System.out.println("Hello,world~");
+		}
 ```
 
 3.Java语言严格区分大小写。

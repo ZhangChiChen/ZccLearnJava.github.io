@@ -14,15 +14,13 @@
 
 7. 代码编写次行风格和行尾风格
 
-​	a.次行风格
+​		a.次行风格
 
-![image-20230522154758976](C:\Users\22050\AppData\Roaming\Typora\typora-user-images\image-20230522154758976.png)
+![image-20230522154758976](D:\github\ZccLearnJava.github.io\img\Java代码规范.assets\image-20230522154758976.png)
 
 ​		b.行尾风格
 
-![image-20230522154902496](C:\Users\22050\AppData\Roaming\Typora\typora-user-images\image-20230522154902496.png)
-
-
+![image-20230522154902496](D:\github\ZccLearnJava.github.io\img\Java代码规范.assets\image-20230522154902496.png)
 
 
 
