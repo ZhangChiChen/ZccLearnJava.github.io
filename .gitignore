@@ -1,7 +1,7 @@
 # repo
 node_modules
 _book
-.vuepress/components
+.vuepress/dist
 .vuepress/.cache
 .vuepress/.temp
 tmp

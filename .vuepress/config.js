@@ -15,28 +15,27 @@ export default defineUserConfig({
         docsBranch: 'main',
         navbar: [{
                 text: '个人仓库',
-                link: 'https://github.com/ZccLearnJava.github.io',
+                link: 'https://github.com/ZhangChiChen.github.io',
             },
             {
                 text: 'Bilibili',
                 link: 'https://space.bilibili.com/404477267',
             }
         ],
-        repo: 'ZhangChiChen/ZccLearnJava.github.io',
+        repo: 'ZhangChiChen/ZhangChiChen.github.io',
         sidebar: [{
                 'text': '前言',
                 'link': '/',
             },
-            'Java执行流程分析.md',
-            '什么是JDK、JRE.md',
-            '什么是运行.md',
-            '如何快速学习技术或者知识点.md',
-            'Java开发注意事项和细节说明.md',
-            'Java转义字符.md',
-            '初学者易犯的错误.md',
-            '注释.md',
-            'Java代码规范.md',
-            'DOS了解.md'
+            'Java基础笔记.md',
+            '图解HTTP笔记.md',
+            'JavaWeb笔记.md',
+            'Spring笔记.md',
+            'MyBatis笔记.md',
+            '设计模式笔记.md',
+            'LeetCode 刷题.md',
+            'APPENDIX.md',
+            'Git使用笔记.md'
         ],
     }),
     plugins: [

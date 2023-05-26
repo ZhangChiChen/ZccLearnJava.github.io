@@ -1,22 +1,22 @@
 {
-    "name": "zcc-blog",
+    "name": "ymk-blog",
     "version": "1.0.0",
-    "description": "zcc-blog",
+    "description": "ymk-blog",
     "scripts": {
         "dev": "vuepress dev",
         "build": "vuepress build"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ZhangChiChen/ZccLearnJava.github.io"
+        "url": "git+https://github.com/ZhangChiChen/ZhangChiChen.github.io.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/ZhangChiChen/ZccLearnJava.github.io/issues"
+        "url": "https://github.com/ZhangChiChen/ZhangChiChen.github.io/issues"
     },
-    "homepage": "https://github.com/ZhangChiChen/ZccLearnJava.github.io/",
+    "homepage": "https://github.com/ZhangChiChen/ZhangChiChen.github.io/",
     "devDependencies": {
         "@vuepress/plugin-google-analytics": "2.0.0-beta.53",
         "@vuepress/plugin-register-components": "2.0.0-beta.53",
