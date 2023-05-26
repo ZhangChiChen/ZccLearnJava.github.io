@@ -27,16 +27,8 @@ export default defineUserConfig({
                 'text': '前言',
                 'link': '/',
             },
-            '什么是运行.md',
-            '什么是JDK、JRE.md',
-            'Java执行流程分析.md',
-            'Java开发注意事项和细节说明.md',
-            '如何快速学习技术或者知识点.md',
-            'DOS了解.md',
-            '初学者易犯的错误.md',
-            'Java代码规范.md',
-            'Java转义字符.md',
-            '注释.md'
+        
+            'Java基础学习plus.md'
         ],
     }),
     plugins: [
