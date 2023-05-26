@@ -15,14 +15,14 @@ export default defineUserConfig({
         docsBranch: 'main',
         navbar: [{
                 text: '个人仓库',
-                link: 'https://github.com/ZhangChiChen.github.io',
+                link: 'https://github.com/ZccLearnJava.github.io',
             },
             {
                 text: 'Bilibili',
                 link: 'https://space.bilibili.com/404477267',
             }
         ],
-        repo: 'ZhangChiChen/ZhangChiChen.github.io',
+        repo: 'ZhangChiChen/ZccLearnJava.github.io',
         sidebar: [{
                 'text': '前言',
                 'link': '/',
