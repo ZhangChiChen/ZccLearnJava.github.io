@@ -7,4 +7,5 @@
   4. 代码开发人员需要安装JDK
   5. 如果只需要运行开发好的.class文件，只需要安装JRE
 
-![image-20230426160929574](D:\github\ZccLearnJava.github.io\img\什么是JDK、JRE.assets\image-20230426160929574.png)
+![image-20230426160929574](什么是JDK、JRE.assets/image-20230426160929574.png)
+
