@@ -6,13 +6,13 @@ DOS：Disk Operating System 磁盘操作系统
 
 ## 基本原理
 
-![image-20230522161416873](DOS了解.assets/image-20230522161416873.png)
+![image-20230522161416873](./DOS了解.assets/image-20230522161416873.png)
 
 
 
 ## 相互路径和绝对路径
 
-![image-20230522161833493](DOS了解.assets/image-20230522161833493.png)
+![image-20230522161833493](./DOS了解.assets/image-20230522161833493.png)
 
 
 
